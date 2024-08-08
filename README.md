@@ -2,7 +2,7 @@
 
 ## Description
 100 People - Gait Recognition Data. The collecting scenes of this dataset include indoor scenes (exhibition hall, front desk), outdoor scenes (square, gate of the company) . The data diversity includes multiple age groups, multiple time periods, 5 kinds of scenes, 3 kinds of garments, different shooting angles. For annotation, the binarization processing was adopted for the image frames. The data can be used for tasks such as gait recognition in surveillance scenes.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1109?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1109?source=Github
 
 
 # Specifications
